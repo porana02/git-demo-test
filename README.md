@@ -28,7 +28,7 @@ git-demo-test
 10. back on your own computer repeat 3-9 but edit the README.md file instead
 11. you may notice you don't have changes made by others on your fork (on github or locally)
 12. Click the gear in the top right corner of github for windows and choose to open the shell.
-13. type `git remote add upstream https://github.com/wilburb/git-demo-test.git`
+13. type `git remote add upstream https://github.com/luther_college/git-demo-test.git`
 14. type `git fetch upstream/master`
 15. type `git merge upstream/master`
 16. You now have your local files up to date with the remote (although you may have some merge conflicts to deal with in README.md)
