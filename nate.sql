@@ -4,3 +4,5 @@ select
     , LAST_NAME
 from
     PERSON
+where
+	LAST_NAME = 'Porath'
