@@ -12,7 +12,7 @@ Time flies like an arrow. Fruit flies like a banana.
 ###git/github training repository for
 - Nate
 - Cindy
-- Jean
+- Jean (this is my change)
 
 ###markdown help
 1. https://help.github.com/articles/markdown-basics
