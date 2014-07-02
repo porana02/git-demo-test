@@ -1,6 +1,10 @@
 git-demo-test
 =============
 
+The quick brown fox jumps over the lazy dog.
+
+Time flies like an arrow. Fruit flies like a banana.
+
 ###Before Training
 1. Download and install github for windows version 2 from https://windows.github.com/
 2. log in with your github credentials and follow any instructions
